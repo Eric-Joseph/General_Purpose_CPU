@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ericj\Downloads\TMU Engineering Notes\Second Year Engineering\First Semester\COE328\Programs\Lab 6 V3\simulation\qsim
+vLab6Q3
+Z1 IHe8Z7n1Oek_n:NQF6:Yn51
+Z2 VB?KDd7Rg^hI14E?]PA9KC1
+Z3 dC:\Users\ericj\Downloads\TMU Engineering Notes\Second Year Engineering\First Semester\COE328\Programs\Lab 6 V3\simulation\qsim
+Z4 w1701736421
+Z5 8Lab6V3.vo
+Z6 FLab6V3.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Lab6V3.vo|
+Z9 o-work work -O0
+Z10 n@lab6@q3
+!i10b 1
+Z11 !s100 E>L61=>HD3SL4Vo2]8AiA1
+!s85 0
+Z12 !s108 1701736422.729000
+Z13 !s107 Lab6V3.vo|
+!s101 -O0
+vLab6Q3_vlg_check_tst
+!i10b 1
+!s100 DUY_JSGXoCC31V2=fDYha1
+IPhS6AQe<=]jlznBkBmffg3
+VMJzNc1AK7_P6I5T1PX[kL3
+R3
+Z14 w1701736420
+Z15 8Lab6V3.vt
+Z16 FLab6V3.vt
+L0 71
+R7
+r1
+!s85 0
+31
+Z17 !s108 1701736422.843000
+Z18 !s107 Lab6V3.vt|
+Z19 !s90 -work|work|Lab6V3.vt|
+!s101 -O0
+R9
+n@lab6@q3_vlg_check_tst
+vLab6Q3_vlg_sample_tst
+!i10b 1
+!s100 ;N54gRJiFMe:a0^XEBMJh0
+I3Zc1JFL2SA6d`m;AX[zj02
+V>`8aA2Jgf<dUn?Wg=nNUN0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+n@lab6@q3_vlg_sample_tst
+vLab6Q3_vlg_vec_tst
+!i10b 1
+!s100 BD0:JIl_KIgmkIla>5naf1
+I4^]e`=lGIEW3ILb8;6UJC2
+Vea7>IQC4[GQj4OnlA1Y?b0
+R3
+R14
+R15
+R16
+L0 407
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+n@lab6@q3_vlg_vec_tst
+vLab6V3
+Z20 Iae6oE827RoeN1gd`GWf8?3
+Z21 V9a5`<ChZN<WK[<:D9>KTo0
+R3
+Z22 w1701720353
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z23 n@lab6@v3
+Z24 !s100 gRc[j3<6aEiQPF^^dQL;Q2
+Z25 !s108 1701720354.541000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vLab6V3_vlg_check_tst
+Z26 !s100 VD?]OHUzYIIP?M6`3E7<Y2
+Z27 Ifk4:YPXPZPBM5P8Y>ZkdE3
+Z28 V5CBJ4iRElnme4bT7AY5:C1
+R3
+Z29 w1701720352
+R15
+R16
+L0 71
+R7
+r1
+31
+Z30 !s108 1701720354.660000
+Z31 !s107 Lab6V3.vt|
+R19
+R9
+Z32 n@lab6@v3_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vLab6V3_vlg_sample_tst
+Z33 !s100 08:GI_Fk;XbF=JoeGgheU0
+Z34 IE3_R=obbQmLCB8aTk9>W[3
+Z35 VgF18>iB3RGNl[646E5QZO0
+R3
+R29
+R15
+R16
+L0 29
+R7
+r1
+31
+R30
+R31
+R19
+R9
+Z36 n@lab6@v3_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vLab6V3_vlg_vec_tst
+Z37 !s100 ;nzo8UbDO8ST<HbinEQ092
+Z38 IH^>iVWTb2MHEg9VaSB@fS2
+Z39 VXL77FV0dX8c_X3a:BldTJ0
+R3
+R29
+R15
+R16
+Z40 L0 675
+R7
+r1
+31
+R30
+R31
+R19
+R9
+Z41 n@lab6@v3_vlg_vec_tst
+!i10b 1
+!s85 0
+!s101 -O0
